@@ -9,5 +9,5 @@ def canPartitionKSubsets(nums, k):
 
     target = sum(nums)//k
 
-
+    
 
