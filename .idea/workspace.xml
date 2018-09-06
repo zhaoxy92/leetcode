@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14ea4817-1ab5-4c5b-bf34-dcf3d00d9d47" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DFS-BFS/100_same_tree.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DFS-BFS/102_binary_tree_level_order_traversal.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamic-programing/801_min_swaps_make_seq_increase.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamic-programing/808_soup_servings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamic-programing/813_largest_sum_of_avg.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dynamic-programing/837_new_21_game.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/recursion/687_longest_univariate_path.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/recursion/779_k-th_symbol_in_grammar.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/recursion/894_all_possible_full_binary_trees.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/15_3sum.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/206_reverse_linked_list.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/21_merge_2_sorted_list.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/771_jewels_and_stones.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dynamic-programing/698_partition_K_euqal_sum_subset.py" afterPath="$PROJECT_DIR$/dynamic-programing/698_partition_K_euqal_sum_subset.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1_two_sum.py" afterPath="$PROJECT_DIR$/1_two_sum.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/200_num_of_islands.py" afterPath="$PROJECT_DIR$/200_num_of_islands.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/20_valid_parenthesis.py" afterPath="$PROJECT_DIR$/20_valid_parenthesis.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2_add_two_numbers.py" afterPath="$PROJECT_DIR$/2_add_two_numbers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/3_longest_substring_without_repeating_characters.py" afterPath="$PROJECT_DIR$/3_longest_substring_without_repeating_characters.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/5_longest_palindromic_substring.py" afterPath="$PROJECT_DIR$/5_longest_palindromic_substring.py" />
     </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,48 +27,54 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/leetcode$213_house_robber2.coverage" NAME="213_house_robber2 Coverage Results" MODIFIED="1532298369403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$576_out_of_boundary_paths.coverage" NAME="576_out_of_boundary_paths Coverage Results" MODIFIED="1535658142771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
     <SUITE FILE_PATH="coverage/leetcode$343_integer_break.coverage" NAME="343_integer_break Coverage Results" MODIFIED="1532655823864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$801_min_swaps_make_seq_increase.coverage" NAME="801_min_swaps_make_seq_increase Coverage Results" MODIFIED="1535985928182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
+    <SUITE FILE_PATH="coverage/leetcode$1_two_sum.coverage" NAME="1_two_sum Coverage Results" MODIFIED="1536093099144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$718_max_len_repeated_subarray.coverage" NAME="718_max_len_repeated_subarray Coverage Results" MODIFIED="1535910625123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
     <SUITE FILE_PATH="coverage/leetcode$96_uniqueBinarySearchTree.coverage" NAME="96_uniqueBinarySearchTree Coverage Results" MODIFIED="1532291287332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$95_uniqueBinarySearchTree2.coverage" NAME="95_uniqueBinarySearchTree2 Coverage Results" MODIFIED="1532292874730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$494_target_sum.coverage" NAME="494_target_sum Coverage Results" MODIFIED="1534107735476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
-    <SUITE FILE_PATH="coverage/leetcode$746_min_cost_climb_stairs.coverage" NAME="746_min_cost_climb_stairs Coverage Results" MODIFIED="1535929894244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
     <SUITE FILE_PATH="coverage/leetcode$279_perfect_square.coverage" NAME="279_perfect_square Coverage Results" MODIFIED="1532460634942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$523_continuous_subarray_sum.coverage" NAME="523_continuous_subarray_sum Coverage Results" MODIFIED="1534565165636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
     <SUITE FILE_PATH="coverage/leetcode$787_cheapest_flights_with_k_stops.coverage" NAME="787_cheapest_flights_with_k_stops Coverage Results" MODIFIED="1535953313170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
-    <SUITE FILE_PATH="coverage/leetcode$91_decodeWays.coverage" NAME="91_decodeWays Coverage Results" MODIFIED="1532287911337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$712_min_ascii_delete_sum_for_2_string.coverage" NAME="712_min_ascii_delete_sum_for_2_string Coverage Results" MODIFIED="1535864634467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
-    <SUITE FILE_PATH="coverage/leetcode$413_arthmetic_slices.coverage" NAME="413_arthmetic_slices Coverage Results" MODIFIED="1533144580680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$764_largest_plus_sign.coverage" NAME="764_largest_plus_sign Coverage Results" MODIFIED="1535932702090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
-    <SUITE FILE_PATH="coverage/leetcode$714_best_time_buy_sell_stock_with_fee.coverage" NAME="714_best_time_buy_sell_stock_with_fee Coverage Results" MODIFIED="1535907312483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
     <SUITE FILE_PATH="coverage/leetcode$813_largest_sum_of_avg.coverage" NAME="813_largest_sum_of_avg Coverage Results" MODIFIED="1536000245602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
-    <SUITE FILE_PATH="coverage/leetcode$376_Wiggle_Subsequence.coverage" NAME="376_Wiggle Subsequence Coverage Results" MODIFIED="1533080039996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$300_longest_increasing_subseq.coverage" NAME="300_longest_increasing_subseq Coverage Results" MODIFIED="1532568350614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$368_largest_divisible_subset.coverage" NAME="368_largest_divisible_subset Coverage Results" MODIFIED="1533013063052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$871_minRefuelStop.coverage" NAME="871_minRefuelStop Coverage Results" MODIFIED="1532142625466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$646_max_len_pair_chain.coverage" NAME="646_max_len_pair_chain Coverage Results" MODIFIED="1535681555287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
-    <SUITE FILE_PATH="coverage/leetcode$647_palindromic_substrings.coverage" NAME="647_palindromic_substrings Coverage Results" MODIFIED="1535686377151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
-    <SUITE FILE_PATH="coverage/leetcode$467_unique_substr_in_wraparound_str.coverage" NAME="467_unique_substr_in_wraparound_str Coverage Results" MODIFIED="1533154585709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$474_zeros_and_ones.coverage" NAME="474_zeros_and_ones Coverage Results" MODIFIED="1533960158789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
     <SUITE FILE_PATH="coverage/leetcode$221_maximal_square.coverage" NAME="221_maximal_square Coverage Results" MODIFIED="1532405650177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$264_ugly_number2.coverage" NAME="264_ugly_number2 Coverage Results" MODIFIED="1532447647286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$100_same_tree.coverage" NAME="100_same_tree Coverage Results" MODIFIED="1536025398264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS-BFS" />
     <SUITE FILE_PATH="coverage/leetcode$416_partition_equal_subset_sum.coverage" NAME="416_partition_equal_subset_sum Coverage Results" MODIFIED="1533149108342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$779_k_th_symbol_in_grammar.coverage" NAME="779_k-th_symbol_in_grammar Coverage Results" MODIFIED="1536020389373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recursion" />
-    <SUITE FILE_PATH="coverage/leetcode$375_guess_num_higher_lower2.coverage" NAME="375_guess_num_higher_lower2 Coverage Results" MODIFIED="1533077241335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$20_valid_parenthesis.coverage" NAME="20_valid_parenthesis Coverage Results" MODIFIED="1536105812317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$740_delete_and_earn.coverage" NAME="740_delete_and_earn Coverage Results" MODIFIED="1535928999196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
-    <SUITE FILE_PATH="coverage/leetcode$638_shopping_offer.coverage" NAME="638_shopping_offer Coverage Results" MODIFIED="1535660063282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
     <SUITE FILE_PATH="coverage/leetcode$309_best_time_buy_sell_stock.coverage" NAME="309_best_time_buy_sell_stock Coverage Results" MODIFIED="1532568368384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$516_longest_palindromic_subsequence.coverage" NAME="516_longest_palindromic_subsequence Coverage Results" MODIFIED="1534481701060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
-    <SUITE FILE_PATH="coverage/leetcode$808_soup_servings.coverage" NAME="808_soup_servings Coverage Results" MODIFIED="1535995491719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
     <SUITE FILE_PATH="coverage/leetcode$486_predict_winner.coverage" NAME="486_predict_winner Coverage Results" MODIFIED="1534105833265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
+    <SUITE FILE_PATH="coverage/leetcode$322_coin_change.coverage" NAME="322_coin_change Coverage Results" MODIFIED="1532575364044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$673_num_of_longest_increasing_subseq.coverage" NAME="673_num_of_longest_increasing_subseq Coverage Results" MODIFIED="1535864413780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
+    <SUITE FILE_PATH="coverage/leetcode$576_out_of_boundary_paths.coverage" NAME="576_out_of_boundary_paths Coverage Results" MODIFIED="1535658142771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
+    <SUITE FILE_PATH="coverage/leetcode$494_target_sum.coverage" NAME="494_target_sum Coverage Results" MODIFIED="1534107735476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
+    <SUITE FILE_PATH="coverage/leetcode$746_min_cost_climb_stairs.coverage" NAME="746_min_cost_climb_stairs Coverage Results" MODIFIED="1535929894244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
+    <SUITE FILE_PATH="coverage/leetcode$91_decodeWays.coverage" NAME="91_decodeWays Coverage Results" MODIFIED="1532287911337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$413_arthmetic_slices.coverage" NAME="413_arthmetic_slices Coverage Results" MODIFIED="1533144580680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$764_largest_plus_sign.coverage" NAME="764_largest_plus_sign Coverage Results" MODIFIED="1535932702090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
+    <SUITE FILE_PATH="coverage/leetcode$714_best_time_buy_sell_stock_with_fee.coverage" NAME="714_best_time_buy_sell_stock_with_fee Coverage Results" MODIFIED="1535907312483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
+    <SUITE FILE_PATH="coverage/leetcode$376_Wiggle_Subsequence.coverage" NAME="376_Wiggle Subsequence Coverage Results" MODIFIED="1533080039996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$3_longest_substring_without_repeating_characters.coverage" NAME="3_longest_substring_without_repeating_characters Coverage Results" MODIFIED="1536104314258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$15_3sum.coverage" NAME="15_3sum Coverage Results" MODIFIED="1536206578544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$646_max_len_pair_chain.coverage" NAME="646_max_len_pair_chain Coverage Results" MODIFIED="1535681555287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
+    <SUITE FILE_PATH="coverage/leetcode$647_palindromic_substrings.coverage" NAME="647_palindromic_substrings Coverage Results" MODIFIED="1535686377151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
+    <SUITE FILE_PATH="coverage/leetcode$467_unique_substr_in_wraparound_str.coverage" NAME="467_unique_substr_in_wraparound_str Coverage Results" MODIFIED="1533154585709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$100_same_tree.coverage" NAME="100_same_tree Coverage Results" MODIFIED="1536025398264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DFS-BFS" />
+    <SUITE FILE_PATH="coverage/leetcode$771_jewels_and_stones.coverage" NAME="771_jewels_and_stones Coverage Results" MODIFIED="1536200006141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$5_longest_palindromic_substring.coverage" NAME="5_longest_palindromic_substring Coverage Results" MODIFIED="1536114084072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$375_guess_num_higher_lower2.coverage" NAME="375_guess_num_higher_lower2 Coverage Results" MODIFIED="1533077241335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$638_shopping_offer.coverage" NAME="638_shopping_offer Coverage Results" MODIFIED="1535660063282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
+    <SUITE FILE_PATH="coverage/leetcode$808_soup_servings.coverage" NAME="808_soup_servings Coverage Results" MODIFIED="1535995491719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
     <SUITE FILE_PATH="coverage/leetcode$357_count_num_unique_digits.coverage" NAME="357_count_num_unique_digits Coverage Results" MODIFIED="1533009023158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$338_counting_bits.coverage" NAME="338_counting_bits Coverage Results" MODIFIED="1532652430701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$322_coin_change.coverage" NAME="322_coin_change Coverage Results" MODIFIED="1532575364044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$650_2_keys_keyboard.coverage" NAME="650_2_keys_keyboard Coverage Results" MODIFIED="1535690643946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
-    <SUITE FILE_PATH="coverage/leetcode$673_num_of_longest_increasing_subseq.coverage" NAME="673_num_of_longest_increasing_subseq Coverage Results" MODIFIED="1535864413780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -78,28 +84,7 @@
     <favorites_list name="leetcode" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="100_same_tree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DFS-BFS/100_same_tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="21" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="102_binary_tree_level_order_traversal.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DFS-BFS/102_binary_tree_level_order_traversal.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -114,15 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/871_minRefuelStop.py" />
-        <option value="$PROJECT_DIR$/91_decodeWays.py" />
-        <option value="$PROJECT_DIR$/96_uniqueBinarySearchTree.py" />
-        <option value="$PROJECT_DIR$/95_uniqueBinarySearchTree2.py" />
-        <option value="$PROJECT_DIR$/120_triangle.py" />
-        <option value="$PROJECT_DIR$/213_house_robber2.py" />
-        <option value="$PROJECT_DIR$/221_maximal_square.py" />
-        <option value="$PROJECT_DIR$/264_ugly_number2.py" />
-        <option value="$PROJECT_DIR$/279_perfect_square.py" />
         <option value="$PROJECT_DIR$/300_longest_increasing_subseq.py" />
         <option value="$PROJECT_DIR$/309_best_time_buy_sell_stock.py" />
         <option value="$PROJECT_DIR$/322_coin_change.py" />
@@ -155,7 +131,6 @@
         <option value="$PROJECT_DIR$/dynamic-programing/764_largest_plus_sign.py" />
         <option value="$PROJECT_DIR$/dynamic-programing/787_cheapest_flights_with_k_stops.py" />
         <option value="$PROJECT_DIR$/dynamic-programing/801_min_swaps_make_seq_increase.py" />
-        <option value="$PROJECT_DIR$/dynamic-programing/808_soup_servings.py" />
         <option value="$PROJECT_DIR$/dynamic-programing/813_largest_sum_of_avg.py" />
         <option value="$PROJECT_DIR$/dynamic-programing/837_new_21_game.py" />
         <option value="$PROJECT_DIR$/dynamic-programing/698_partition_K_euqal_sum_subset.py" />
@@ -164,6 +139,17 @@
         <option value="$PROJECT_DIR$/recursion/894_all_possible_full_binary_trees.py" />
         <option value="$PROJECT_DIR$/DFS-BFS/100_same_tree.py" />
         <option value="$PROJECT_DIR$/DFS-BFS/102_binary_tree_level_order_traversal.py" />
+        <option value="$PROJECT_DIR$/1_two_sum.py" />
+        <option value="$PROJECT_DIR$/dynamic-programing/808_soup_servings.py" />
+        <option value="$PROJECT_DIR$/2_add_two_numbers.py" />
+        <option value="$PROJECT_DIR$/3_longest_substring_without_repeating_characters.py" />
+        <option value="$PROJECT_DIR$/20_valid_parenthesis.py" />
+        <option value="$PROJECT_DIR$/5_longest_palindromic_substring.py" />
+        <option value="$PROJECT_DIR$/200_num_of_islands.py" />
+        <option value="$PROJECT_DIR$/771_jewels_and_stones.py" />
+        <option value="$PROJECT_DIR$/15_3sum.py" />
+        <option value="$PROJECT_DIR$/206_reverse_linked_list.py" />
+        <option value="$PROJECT_DIR$/21_merge_2_sorted_list.py" />
       </list>
     </option>
   </component>
@@ -202,6 +188,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -220,24 +208,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="leetcode" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DFS-BFS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -245,93 +217,93 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="true" />
   </component>
-  <component name="RunManager" selected="Python.100_same_tree">
-    <configuration default="false" name="801_min_swaps_make_seq_increase" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.15_3sum">
+    <configuration default="false" name="3_longest_substring_without_repeating_characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dynamic-programing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dynamic-programing/801_min_swaps_make_seq_increase.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_longest_substring_without_repeating_characters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="808_soup_servings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="20_valid_parenthesis" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dynamic-programing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dynamic-programing/808_soup_servings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/20_valid_parenthesis.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="813_largest_sum_of_avg" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="5_longest_palindromic_substring" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dynamic-programing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dynamic-programing/813_largest_sum_of_avg.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_longest_palindromic_substring.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="779_k-th_symbol_in_grammar" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="771_jewels_and_stones" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/recursion" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursion/779_k-th_symbol_in_grammar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/771_jewels_and_stones.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="100_same_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="15_3sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DFS-BFS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DFS-BFS/100_same_tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15_3sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -545,19 +517,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.801_min_swaps_make_seq_increase" />
-      <item index="1" class="java.lang.String" itemvalue="Python.808_soup_servings" />
-      <item index="2" class="java.lang.String" itemvalue="Python.813_largest_sum_of_avg" />
-      <item index="3" class="java.lang.String" itemvalue="Python.779_k-th_symbol_in_grammar" />
-      <item index="4" class="java.lang.String" itemvalue="Python.100_same_tree" />
+      <item index="0" class="java.lang.String" itemvalue="Python.3_longest_substring_without_repeating_characters" />
+      <item index="1" class="java.lang.String" itemvalue="Python.20_valid_parenthesis" />
+      <item index="2" class="java.lang.String" itemvalue="Python.5_longest_palindromic_substring" />
+      <item index="3" class="java.lang.String" itemvalue="Python.771_jewels_and_stones" />
+      <item index="4" class="java.lang.String" itemvalue="Python.15_3sum" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.100_same_tree" />
-        <item index="1" class="java.lang.String" itemvalue="Python.779_k-th_symbol_in_grammar" />
-        <item index="2" class="java.lang.String" itemvalue="Python.813_largest_sum_of_avg" />
-        <item index="3" class="java.lang.String" itemvalue="Python.808_soup_servings" />
-        <item index="4" class="java.lang.String" itemvalue="Python.801_min_swaps_make_seq_increase" />
+        <item index="0" class="java.lang.String" itemvalue="Python.15_3sum" />
+        <item index="1" class="java.lang.String" itemvalue="Python.771_jewels_and_stones" />
+        <item index="2" class="java.lang.String" itemvalue="Python.5_longest_palindromic_substring" />
+        <item index="3" class="java.lang.String" itemvalue="Python.20_valid_parenthesis" />
+        <item index="4" class="java.lang.String" itemvalue="Python.3_longest_substring_without_repeating_characters" />
       </list>
     </recent_temporary>
   </component>
@@ -579,15 +551,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26037195" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26824033" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3064904" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -617,16 +589,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/91_decodeWays.py" />
-    <entry file="file://$PROJECT_DIR$/96_uniqueBinarySearchTree.py" />
-    <entry file="file://$PROJECT_DIR$/95_uniqueBinarySearchTree2.py" />
-    <entry file="file://$PROJECT_DIR$/871_minRefuelStop.py" />
-    <entry file="file://$PROJECT_DIR$/120_triangle.py" />
-    <entry file="file://$PROJECT_DIR$/213_house_robber2.py" />
-    <entry file="file://$PROJECT_DIR$/221_maximal_square.py" />
-    <entry file="file://$PROJECT_DIR$/264_ugly_number2.py" />
-    <entry file="file://$PROJECT_DIR$/279_perfect_square.py" />
-    <entry file="file://$PROJECT_DIR$/309_best_time_buy_sell_stock.py" />
     <entry file="file://$PROJECT_DIR$/322_coin_change.py" />
     <entry file="file://$PROJECT_DIR$/338_counting_bits.py" />
     <entry file="file://$PROJECT_DIR$/343_integer_break.py" />
@@ -741,7 +703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -749,7 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -757,7 +717,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="48" selection-start-line="6" selection-start-column="4" selection-end-line="12" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -765,7 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="47" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -773,7 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="28" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -781,7 +738,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -789,7 +745,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -797,7 +752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -805,7 +759,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -813,7 +766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -821,7 +773,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -829,15 +780,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dynamic-programing/808_soup_servings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -845,7 +787,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="21" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -853,6 +794,86 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dynamic-programing/808_soup_servings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1_two_sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2_add_two_numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3_longest_substring_without_repeating_characters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/20_valid_parenthesis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5_longest_palindromic_substring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/200_num_of_islands.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21_merge_2_sorted_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/206_reverse_linked_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15_3sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/771_jewels_and_stones.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
           <folding />
         </state>
       </provider>
