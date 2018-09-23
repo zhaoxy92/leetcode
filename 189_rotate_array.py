@@ -5,12 +5,26 @@ def rotate(nums, k):
     :rtype: void Do not return anything, modify nums in-place instead.
     """
 
-
     k = k%len(nums)
-    for _ in range(k):
-        
+
+    nums[:k],nums[k:] = nums[len(nums)-k:],nums[:len(nums)-k]
+
+    return nums
 
 
-print(rotate([1,2,3,4,5,6,7],3))
-print(rotate([1,2],3))
+
+def rotate2(nums, k):
+    reverse(nums, 0, len(nums)-1)
+    reverse(nums, 0, k)
+    reverse(nums, k, len(nums)-1)
+
+def reverse(nums, start, end):
+    while start < end:
+        temp = nums[start]
+        nums[start] = nums[end]
+        nums[end] = temp
+        start += 1
+        end -= 1
+
+
 

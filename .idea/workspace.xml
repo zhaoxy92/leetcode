@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14ea4817-1ab5-4c5b-bf34-dcf3d00d9d47" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/127_word_ladder.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/155_min_stack.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/160_intersect_2_linked_list.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/167_2sum.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/189_rotate_array.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/234_palindrome_linked_list.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/48_rotate_image.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/617_merge_2_binary_trees.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/78_subsets.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/189_rotate_array.py" afterPath="$PROJECT_DIR$/189_rotate_array.py" />
     </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,7 +27,7 @@
     <SUITE FILE_PATH="coverage/leetcode$523_continuous_subarray_sum.coverage" NAME="523_continuous_subarray_sum Coverage Results" MODIFIED="1534565165636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
     <SUITE FILE_PATH="coverage/leetcode$787_cheapest_flights_with_k_stops.coverage" NAME="787_cheapest_flights_with_k_stops Coverage Results" MODIFIED="1535953313170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
     <SUITE FILE_PATH="coverage/leetcode$712_min_ascii_delete_sum_for_2_string.coverage" NAME="712_min_ascii_delete_sum_for_2_string Coverage Results" MODIFIED="1535864634467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
-    <SUITE FILE_PATH="coverage/leetcode$189_rotate_array.coverage" NAME="189_rotate_array Coverage Results" MODIFIED="1537544124949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$189_rotate_array.coverage" NAME="189_rotate_array Coverage Results" MODIFIED="1537663388164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$813_largest_sum_of_avg.coverage" NAME="813_largest_sum_of_avg Coverage Results" MODIFIED="1536000245602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
     <SUITE FILE_PATH="coverage/leetcode$300_longest_increasing_subseq.coverage" NAME="300_longest_increasing_subseq Coverage Results" MODIFIED="1532568350614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$215_kth_largest_element_in_array.coverage" NAME="215_kth_largest_element_in_array Coverage Results" MODIFIED="1536474586003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -148,8 +139,8 @@
       <file leaf-file-name="189_rotate_array.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/189_rotate_array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1017,8 +1008,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/189_rotate_array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
