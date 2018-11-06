@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14ea4817-1ab5-4c5b-bf34-dcf3d00d9d47" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/916_word_subsets.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/917_reverse_only_letters.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/918_maximum_sum_subarray.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/919_complete_binary_tree_inserter.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/920_num_music_playlist.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/921_min_add_make_parenthesis_valid.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/922_sort_array_biparity.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/923_3sum_with_multiplicity.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/925_long_pressed_name.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/933_num_of_recent_calls.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/934_shortest_bridge.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/935_knight_dialer.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/936_stamping_sequence.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/914_X_of_a_kind_in_deck_of_cards.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/915_partition_array_into_disjoint_interval.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="leetcode.iws" />
@@ -36,6 +25,7 @@
     <SUITE FILE_PATH="coverage/leetcode$119_pascal_triangle_II.coverage" NAME="119_pascal_triangle_II Coverage Results" MODIFIED="1537761202577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$921_min_add_make_parenthesis_valid.coverage" NAME="921_min_add_make_parenthesis_valid Coverage Results" MODIFIED="1541284302219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$857_min_cost_hire_k_workers.coverage" NAME="857_min_cost_hire_k_workers Coverage Results" MODIFIED="1538627559814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$915_partition_array_into_disjoint_interval.coverage" NAME="915_partition_array_into_disjoint_interval Coverage Results" MODIFIED="1541484871667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$15_3sum.coverage" NAME="15_3sum Coverage Results" MODIFIED="1536206578544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$801_min_swaps_make_seq_increase.coverage" NAME="801_min_swaps_make_seq_increase Coverage Results" MODIFIED="1535985928182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
     <SUITE FILE_PATH="coverage/leetcode$932_beautiful_array.coverage" NAME="932_beautiful_array Coverage Results" MODIFIED="1541137811674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -103,7 +93,7 @@
     <SUITE FILE_PATH="coverage/leetcode$279_perfect_square.coverage" NAME="279_perfect_square Coverage Results" MODIFIED="1532460634942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$486_predict_winner.coverage" NAME="486_predict_winner Coverage Results" MODIFIED="1534105833265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
     <SUITE FILE_PATH="coverage/leetcode$646_max_len_pair_chain.coverage" NAME="646_max_len_pair_chain Coverage Results" MODIFIED="1535681555287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dynamic-programing" />
-    <SUITE FILE_PATH="coverage/leetcode$916_word_subsets.coverage" NAME="916_word_subsets Coverage Results" MODIFIED="1541448293759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$916_word_subsets.coverage" NAME="916_word_subsets Coverage Results" MODIFIED="1541484055733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$357_count_num_unique_digits.coverage" NAME="357_count_num_unique_digits Coverage Results" MODIFIED="1533009023158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$681_next_closest_time.coverage" NAME="681_next_closest_time Coverage Results" MODIFIED="1537812097502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$871_minRefuelStop.coverage" NAME="871_minRefuelStop Coverage Results" MODIFIED="1532142625466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -120,6 +110,7 @@
     <SUITE FILE_PATH="coverage/leetcode$280_wiggle_sort.coverage" NAME="280_wiggle_sort Coverage Results" MODIFIED="1540149857184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$399_evaluate_division.coverage" NAME="399_evaluate_division Coverage Results" MODIFIED="1538623388727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$923_3sum_with_multiplicity.coverage" NAME="923_3sum_with_multiplicity Coverage Results" MODIFIED="1541202897814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$914_X_of_a_kind_in_deck_of_cards.coverage" NAME="914_X_of_a_kind_in_deck_of_cards Coverage Results" MODIFIED="1541486643581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$96_uniqueBinarySearchTree.coverage" NAME="96_uniqueBinarySearchTree Coverage Results" MODIFIED="1532291287332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$844_backspace_str_compare.coverage" NAME="844_backspace_str_compare Coverage Results" MODIFIED="1538682872787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$5_longest_palindromic_substring.coverage" NAME="5_longest_palindromic_substring Coverage Results" MODIFIED="1536114084072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -148,38 +139,7 @@
     <favorites_list name="leetcode" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="918_maximum_sum_subarray.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/918_maximum_sum_subarray.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="917_reverse_only_letters.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/917_reverse_only_letters.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="23" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="916_word_subsets.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/916_word_subsets.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="31" column="32" lean-forward="false" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -194,8 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/128_longest_consecutive_strings.py" />
-        <option value="$PROJECT_DIR$/312_burst_balloons.py" />
         <option value="$PROJECT_DIR$/240_search_2d_matrix_II.py" />
         <option value="$PROJECT_DIR$/341_flatten_nested_list.py" />
         <option value="$PROJECT_DIR$/657_robot_return_to_origin.py" />
@@ -245,6 +203,8 @@
         <option value="$PROJECT_DIR$/918_maximum_sum_subarray.py" />
         <option value="$PROJECT_DIR$/917_reverse_only_letters.py" />
         <option value="$PROJECT_DIR$/916_word_subsets.py" />
+        <option value="$PROJECT_DIR$/915_partition_array_into_disjoint_interval.py" />
+        <option value="$PROJECT_DIR$/914_X_of_a_kind_in_deck_of_cards.py" />
       </list>
     </option>
   </component>
@@ -305,7 +265,45 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.916_word_subsets">
+  <component name="RunManager" selected="Python.914_X_of_a_kind_in_deck_of_cards">
+    <configuration name="914_X_of_a_kind_in_deck_of_cards" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/914_X_of_a_kind_in_deck_of_cards.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="915_partition_array_into_disjoint_interval" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/915_partition_array_into_disjoint_interval.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="916_word_subsets" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -358,44 +356,6 @@
       <module name="leetcode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/918_maximum_sum_subarray.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="934_shortest_bridge" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/934_shortest_bridge.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="935_knight_dialer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="leetcode" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/935_knight_dialer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -609,19 +569,19 @@
       <envs />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.934_shortest_bridge" />
-      <item index="1" class="java.lang.String" itemvalue="Python.935_knight_dialer" />
-      <item index="2" class="java.lang.String" itemvalue="Python.918_maximum_sum_subarray" />
-      <item index="3" class="java.lang.String" itemvalue="Python.917_reverse_only_letters" />
-      <item index="4" class="java.lang.String" itemvalue="Python.916_word_subsets" />
+      <item index="0" class="java.lang.String" itemvalue="Python.918_maximum_sum_subarray" />
+      <item index="1" class="java.lang.String" itemvalue="Python.917_reverse_only_letters" />
+      <item index="2" class="java.lang.String" itemvalue="Python.916_word_subsets" />
+      <item index="3" class="java.lang.String" itemvalue="Python.915_partition_array_into_disjoint_interval" />
+      <item index="4" class="java.lang.String" itemvalue="Python.914_X_of_a_kind_in_deck_of_cards" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.916_word_subsets" />
-        <item index="1" class="java.lang.String" itemvalue="Python.917_reverse_only_letters" />
-        <item index="2" class="java.lang.String" itemvalue="Python.918_maximum_sum_subarray" />
-        <item index="3" class="java.lang.String" itemvalue="Python.935_knight_dialer" />
-        <item index="4" class="java.lang.String" itemvalue="Python.934_shortest_bridge" />
+        <item index="0" class="java.lang.String" itemvalue="Python.914_X_of_a_kind_in_deck_of_cards" />
+        <item index="1" class="java.lang.String" itemvalue="Python.915_partition_array_into_disjoint_interval" />
+        <item index="2" class="java.lang.String" itemvalue="Python.916_word_subsets" />
+        <item index="3" class="java.lang.String" itemvalue="Python.917_reverse_only_letters" />
+        <item index="4" class="java.lang.String" itemvalue="Python.918_maximum_sum_subarray" />
       </list>
     </recent_temporary>
   </component>
@@ -643,13 +603,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24788392" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24788392" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2732475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -682,24 +641,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/128_longest_consecutive_strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/312_burst_balloons.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="45" lean-forward="false" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/240_search_2d_matrix_II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -1047,9 +994,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/916_word_subsets.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
+        <state relative-caret-position="465">
           <caret line="31" column="32" lean-forward="false" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/915_partition_array_into_disjoint_interval.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/914_X_of_a_kind_in_deck_of_cards.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="16" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="24" selection-end-column="16" />
+          <folding>
+            <marker date="1541486643574" expanded="true" signature="600:739" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
